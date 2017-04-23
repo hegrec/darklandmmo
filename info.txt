@@ -1,0 +1,11 @@
+"Gamemode"
+{
+	"name"		"The Darklands"
+	"version"	"1.0"
+
+	"author_name"	"Darkspider"
+	"author_email"	"hegrec@gmail.com"
+	"author_url"	"http://www.darklandservers.com/"
+
+	"info"		""
+}
